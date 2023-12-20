@@ -1,0 +1,15 @@
+node_modules
+package-lock.json
+
+age_ver/age_ver_cpp
+age_ver/age_ver_js
+age_ver/age_ver_0000.zkey
+age_ver/age_ver_final.zkey
+age_ver/age_ver.r1cs
+age_ver/age_ver.sym
+age_ver/proof.json
+age_ver/public.json
+age_ver/verification_key.json
+age_ver/age_verPlonkVerifier.sol
+age_ver/parameters.txt
+age_ver/ptau
